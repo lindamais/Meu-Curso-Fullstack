@@ -30,7 +30,7 @@ if (somar()< 9){
 //alert(somar(3,5))
 
 
- 
+ /*
 let numero1 = parseInt(prompt("digite um número"))
 let numero2 = parseInt(prompt("digite outro número"))
 
@@ -40,8 +40,14 @@ function somar(numero1, numero2) {
    
 }
     alert (somar(numero1, numero2))
+*/
 
 
+functionsomar(){
+    return 3+4
+}
+alert(somar())
+console.log(somar())
 
 
 

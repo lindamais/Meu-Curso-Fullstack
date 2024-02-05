@@ -21,9 +21,9 @@ function acionar(){
     alert("oi")
 
 }
-*/
-setInterval(teste,2000)
 
+setInterval(teste,2000)
+*/
 function teste(){
     let elemento = document.getElementById("demo")
     elemento.textContent = elemento.textContent + " Estuda"
