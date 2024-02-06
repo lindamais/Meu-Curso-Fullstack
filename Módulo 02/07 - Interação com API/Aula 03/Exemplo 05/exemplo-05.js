@@ -1,8 +1,8 @@
 
+
 async function obter(){
-    let resposta = await fetch("mensage.txt")
+    let resposta = await fetch("")
     let convertido =  await resposta.text()
     console.log(convertido)
-}
-obter()
-
+ }
+ obter()
