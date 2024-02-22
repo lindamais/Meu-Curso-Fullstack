@@ -1,0 +1,27 @@
+[
+    {
+     "modelo" : "Galaxy A14 5G",
+     "marca":"samsung",
+     "sistema operacional":"Android 13.0",
+     "cor":"vinho"
+     
+     },
+     {
+     "modelo" : "C65",
+     "marca":"xiaomi",
+     "sistema operacional": "Androíd 13.0",
+     "cor":"prata"
+     },
+     {
+       "modelo" : "C55 RMX3710",
+       "marca":"Realme",
+       "sistema operacional":" Realme UI 4.0,Android 13.0",
+       "cor":"branco"
+     },
+    {
+     "modelo" : "48",
+     "marca":"samsung",
+     "sistema operacional":" Android 11.0,"
+     "cor":"preto"
+    }
+ ]
