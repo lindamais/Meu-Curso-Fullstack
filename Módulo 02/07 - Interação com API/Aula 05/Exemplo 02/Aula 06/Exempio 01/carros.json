@@ -1,0 +1,49 @@
+[
+   {
+    "modelo" : "Monza",
+    "marca":"Chevrolet",
+    "ano": 1995,
+    "cor":"vinho"
+    
+    },
+    {
+    "modelo" : "320i",
+    "marca":"BMW",
+    "ano": 2005,
+    "cor":"prata"
+    },
+    {
+      "modelo" : "Uno com Escada",
+      "marca":"Fiat",
+      "ano": 2029,
+      "cor":"branco"
+    },
+   {
+    "modelo" : "Onix",
+    "marca":"Chevrolet",
+    "ano": 2023,
+    "cor":"preto"
+   }
+]
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
