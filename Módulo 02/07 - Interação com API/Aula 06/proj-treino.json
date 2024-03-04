@@ -1,0 +1,37 @@
+[
+
+    {
+        "imagem":"https://imgs.casasbahia.com.br/55055979/1g.jpg",
+        "marca": "Dell",
+        "memoria":"16 GB",
+        "capacidadeDeDiscoSSD":"256 GB",
+        "processador":"core i5"
+        
+    },
+    {
+        "imagem":"https://m.media-amazon.com/images/I/512JJoQh4lL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "marca": "Acer",
+        "memoria":"4 GB",
+        "capacidade-de-disco-HD":"64 TB",
+        "processador":"celeron"
+        
+    },
+
+    {
+        "imagem":"https://m.media-amazon.com/images/I/51I-054YXGL._AC_SX679_.jpg",
+        "marca": "Lenovo",
+        "memoria":"4 GB",
+        "capacidade-de-disco-HD":"0 GB",
+        "processador":"celeron"
+        
+    },
+
+    {
+        "imagem":"https://m.media-amazon.com/images/I/51vLIXjlTvL.__AC_SX300_SY300_QL70_ML2_.jpg",
+        "marca": "samsung",
+        "memoria":"8 GB",
+        "capacidade-de-disco-SSD":"256 GB",
+        "processador":"core i7"
+        
+    }
+]
