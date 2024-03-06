@@ -1,0 +1,38 @@
+[
+
+{
+    "imagem":"",
+    "nome":"coxinha",
+    "preço":4.00,
+    "sabor":"frango" 
+    
+},
+{
+    "imagem":"",
+    "nome":"bomba",
+    "preço":5.00,
+    "sabor":"queijo_e_presunto" 
+    
+},
+{
+    "imagem":"",
+    "nome":"pastez",
+    "preço":3.00,
+    "sabor":"frango,carne" 
+    
+},
+{
+    "imagem":"",
+    "nome":"esfirra",
+    "preço":4.00,
+    "sabor":"frango,presnto,carne" 
+    
+},
+{
+    "imagem":"",
+    "nome":"empada",
+    "preço":6.00,
+    "sabor":"frango,presnto,carne" 
+    
+}
+]
