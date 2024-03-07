@@ -1,0 +1,20 @@
+{
+    "ovos_de_pascoa": [
+      {
+        "nome": "Ovo Chocolate Ao Leite",
+        "imagem": "caminho/para/imagem/chocolate-ao-leite.jpg"
+      },
+      {
+        "nome": "Ovo Chocolate Amargo",
+        "imagem": "caminho/para/imagem/chocolate-amargo.jpg"
+      },
+      {
+        "nome": "Ovo de Trufas",
+        "imagem": "caminho/para/imagem/trufas.jpg"
+      },
+      {
+        "nome": "Ovo de Páscoa Decorado",
+        "imagem": "caminho/para/imagem/ovo-decorado.jpg"
+      }
+    ]
+  }
