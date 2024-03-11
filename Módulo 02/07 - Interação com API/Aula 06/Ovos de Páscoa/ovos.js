@@ -1,14 +1,16 @@
-(async function() {
-    let resposta, produtos;
-
-    resposta = await fetch("ovos.json");
-    produtos = await resposta.json();
-
-    let grupoDiv = document.getElementById("ovos");
-    grupoDiv.innerHTML = produtos.map(p => `
+async function procurar() {
+    let busca = await fetch("ovos.json")
+    let produtos = await busca.json()
+    let o = document.getElementById("ovos")
+    for (let p of produtos){ 
+        o.innerHTML+=
+    `
         <div class="card">
-            <img src="${p.nome}" width="auto" height="200">
-            <h3>${p.imagem}</h3>
-        
-        
-respoata();
+        <img src="${p.imagem}" width="auto" height="200">
+        <h3>${p.nome}</h3>
+        </div>   
+    `
+}
+}
+procurar()  
+      

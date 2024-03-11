@@ -1,20 +1,18 @@
-{
-    "ovos_de_pascoa": [
-      {
-        "nome": "Ovo Chocolate Ao Leite",
-        "imagem": "caminho/para/imagem/chocolate-ao-leite.jpg"
-      },
-      {
-        "nome": "Ovo Chocolate Amargo",
-        "imagem": "caminho/para/imagem/chocolate-amargo.jpg"
-      },
-      {
-        "nome": "Ovo de Trufas",
-        "imagem": "caminho/para/imagem/trufas.jpg"
-      },
-      {
-        "nome": "Ovo de Páscoa Decorado",
-        "imagem": "caminho/para/imagem/ovo-decorado.jpg"
-      }
-    ]
+[
+  {
+    "nome": "Ovo Chocolate Ao Leite",
+    "imagem": "https://m.media-amazon.com/images/I/61thUhsdYCL._AC_SX679_.jpg"
+  },
+  {
+    "nome": "Ovo Chocolate Amargo",
+    "imagem": "https://m.media-amazon.com/images/I/51P76xpNSPL._AC_SL1000_.jpg"
+  },
+  {
+    "nome": "Ovo de Trufas",
+    "imagem": "https://images.tcdn.com.br/img/img_prod/983116/180_ovo_trufado_crocante_109_1_94887672d2dee0450aa9761447f97df6.jpg"
+  },
+  {
+    "nome": "Ovo de Páscoa Decorado",
+    "imagem": "https://png.pngtree.com/png-clipart/20190920/original/pngtree-easter-egg-png-free-png-image_4669160.jpg"
   }
+]
