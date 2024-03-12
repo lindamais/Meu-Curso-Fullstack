@@ -1,0 +1,19 @@
+.card{
+    border: 1px solid #000;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    padding: 10px;
+    border-radius: 10px;
+    
+
+}
+
+.lista-card{
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 10px;
+    row-gap: 10px;
+    
+
+}

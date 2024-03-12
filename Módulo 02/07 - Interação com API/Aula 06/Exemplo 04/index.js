@@ -12,8 +12,14 @@ async function buscar(){
             <div class="card">
                 <h3>${produto.nome}</h3>
                 <p>${produto.descrição}</p>
-            </div> 
-            `   
+                <div> class="valores">
+                    <span>R$ ${produto.valorComDesconto.toFixed(2)}</span>
+                    <span>R$ ${produto.valorSemDesconto.toFixed(2)}</span
+                </div>
+
+            </div>
+        `     
+              
             
             
     }
