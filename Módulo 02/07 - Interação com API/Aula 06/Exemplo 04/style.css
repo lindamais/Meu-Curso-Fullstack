@@ -5,6 +5,7 @@
     width: fit-content;
     padding: 10px;
     border-radius: 10px;
+    align-items: center;
     
 
 }
@@ -15,5 +16,19 @@
     column-gap: 10px;
     row-gap: 10px;
     
+
+}
+.valorCom{
+    color: green;
+    font-size: 20px;
+    font-weight: 600;
+
+}
+.valorSem{
+    color: red;
+    font-size: 15px;
+    text-decoration: line-through;
+
+
 
 }

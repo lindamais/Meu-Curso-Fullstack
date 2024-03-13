@@ -9,12 +9,14 @@ async function buscar(){
         for(let produto of produtos){
             divLista.innerHTML += `
             
-            <div class="card">
+             <div class="card">
                 <h3>${produto.nome}</h3>
+                <img src="${produto.img}" width="160" height="260" </h3>    
                 <p>${produto.descrição}</p>
-                <div> class="valores">
-                    <span>R$ ${produto.valorComDesconto.toFixed(2)}</span>
-                    <span>R$ ${produto.valorSemDesconto.toFixed(2)}</span
+                <div class="valores"> 
+                    <span class="valorCom">R$ ${produto.valorComDesconto.toFixed(2).replace(".",",")}</span>
+                    <span class="valorSem">R$ ${produto.valorSemDesconto.toFixed(2).replace(".",",")}</span>
+                    
                 </div>
 
             </div>
