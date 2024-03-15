@@ -1,0 +1,35 @@
+[
+   {
+    "nome":"Drone DJI Mini 2",
+    "img":"https://m.media-amazon.com/images/I/51HnI9ZxCIL._AC_SL1000_.jpg",
+    "descrição":"serviço Eficaz em captar informações e imagens",
+    "valorComDesconto":1699,
+    "valorSemDesconto":2000
+   },
+
+   {
+    "nome":"Ventilador Arno Turbo",
+    "img":"https://m.media-amazon.com/images/I/61153UdErqL._AC_SL1000_.jpg",
+    "descrição":"Um ventilador para mandar embora o calor",
+    "valorComDesconto":120,
+    "valorSemDesconto":155
+   },
+
+   {
+    "nome":"Geladeira Frost Freezer",
+    "img":"https://m.media-amazon.com/images/I/418W2M249EL._AC_SL1000_.jpg",
+    "descrição":"Conservando sua pizza para o outro dia",
+    "valorComDesconto":2675,
+    "valorSemDesconto":3200
+   },
+
+   {
+    "nome":"Playstation",
+    "img":"https://m.media-amazon.com/images/I/51s81yADTfL._AC_SL1200_.jpg",
+    "descrição":"Quem é o multiverso perto dele.",
+    "valorComDesconto":3560,
+    "valorSemDesconto":3820
+   }
+
+]
+

@@ -1,0 +1,24 @@
+.Lista-card{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+.camiseta{
+    border:1px solid #eaaaaa;
+    padding: 1rem;
+    margin: 1rem;
+    background-color: #e5afaf;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+
+
+}
+h1{
+    color: rgb(165, 67, 207);
+    font-size:40px;
+    align-items: center;
+}

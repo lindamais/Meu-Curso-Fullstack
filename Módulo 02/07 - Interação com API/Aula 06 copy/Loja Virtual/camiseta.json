@@ -1,0 +1,32 @@
+[
+    {
+        "imagem":"https://acdn.mitiendanube.com/stores/002/448/123/products/camiseta-fotos-e-coracoes1-ba553ad5d8130bb1a516818256458768-640-0.webp",
+        "nome":"camiseta-estampada-rosto",
+        "preço":39.90
+    },
+    {
+        "imagem":"https://a-static.mlcdn.com.br/800x560/camiseta-feminina-estampada-desenho-turma-do-snoopy-ninhas/ninhasmodafitnessecasual/c34bff10924011ee96ef4201ac185040/e5b497f081cd111dbd01f7a470690baa.jpeg",
+        "nome":"camiseta-estampada-snoopy",
+        "preço":69.90
+    
+    },
+    {
+        "imagem":"https://cea.vtexassets.com/arquivos/ids/58451378-800-auto?v=638439621693730000&width=800&height=auto&aspect=true",
+        "nome":"camiseta-estampada-mickey",
+        "preço":29.90
+    
+    },
+    {
+        "imagem":"https://static.ecosweb.com.br/public/produtos/moda-feminina/blusa-manga-curta/blusa-malwee-laranja_702515_1000_1.webp",
+        "nome":"camiseta-estampada",
+        "preço":59.95
+    
+    },
+    {
+        "imagem":"https://static.ecosweb.com.br/public/produtos/plus-size-feminino/regata/blusa-camuflado-pink-em-malha_369528_1000_1.webp",
+        "nome":"camiseta-estampada-pink",
+        "preço":49.90
+    
+    }
+    
+]
