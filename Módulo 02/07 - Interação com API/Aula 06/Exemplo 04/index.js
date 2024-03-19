@@ -9,7 +9,7 @@ async function buscar(){
         for(let produto of produtos){
             divLista.innerHTML += `
             
-             <div class="card">
+             <div class="card" data-id="${produto.id}">
                 <h3>${produto.nome}</h3>
                 <img src="${produto.img}" width="160" height="260" </h3>    
                 <p>${produto.descrição}</p>
@@ -20,10 +20,9 @@ async function buscar(){
                 </div>
 
             </div>
-        `     
-              
-            
+        `             
             
     }
+    let divsCards = document.getElementsByClassName("card")
 }
 buscar()
