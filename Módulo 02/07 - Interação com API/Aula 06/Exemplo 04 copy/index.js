@@ -22,19 +22,30 @@ async function buscar(){
 
             </div>
         `
-   }     
+   }
+   //Busca por todos elementos HTML que contém "card"
+   //como valor do parâmetro "class".     
               
      
     let divsCards = document.getElementsByClassName("card")
+    //add em cada Div card um evento que escuta quando
+    // o usuário clica nele, e chama uma função
     for(let card of divsCards){
-        card.addEventListener("click",clicou)
+        card.addEventListener("click", clicou)
     }
 
 }
 
-buscar()
 function clicou(){
-    let elementoID = this.getAttribute("data-id")
-    alert(elementoID)
+    let elementoId = this.getAttribute("data-id")
+    window.location.href = "detalhes.html?produto-id=" + elementoId
     
-}
+
+}    
+
+buscar()
+
+    
+    
+    
+
