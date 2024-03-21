@@ -32,11 +32,17 @@ async function buscar(){
     // o usuário clica nele, e chama uma função
     for(let card of divsCards){
         card.addEventListener("click", clicou)
+
+
     }
 
 }
+// É chamada essa função quando o usuárioclicou
+// em um card que contém o evento de Escuta.
 
 function clicou(){
+    //coleta o valor do atributo "data-id" do elemento
+    //HTML que acionou o evento de Escuta.
     let elementoId = this.getAttribute("data-id")
     window.location.href = "detalhes.html?produto-id=" + elementoId
     
