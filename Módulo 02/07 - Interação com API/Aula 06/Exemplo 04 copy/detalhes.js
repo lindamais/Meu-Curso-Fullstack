@@ -15,7 +15,11 @@ async function buscarDetalhes(){
     }
  
     document.body.innerHTML=`
-    <img src=${produtos[id].img}>
-    <h1>${produtos[id].nome}</h1>`
+    <h1>${produtos[id].nome}</h1>
+    <img src="${produtos[id].img}" height="250" width="250">
+    <p>${produtos[id].descrição}</p>
+    <span>R$${produtos[id].valorComDesconto.toFixed(2).replace(".",",")}</span>
+    <span>R$${produtos[id].valorSemDesconto.toFixed(2).replace(".",",")}</span>
+    `
 }
 buscarDetalhes()
