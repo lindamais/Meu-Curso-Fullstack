@@ -1,8 +1,8 @@
-async function buscarDetalhes(){}
+async function buscarTreinando(){
      let busca = await fetch("lista-produtos.json")
-     let produtos = await busca .json()
+     let produtos = await busca.json()
 
-     let parametros = new URLSearchParams(window.GeolocationPosition.search)
+     let parametros = new URLSearchParams (window.location.search)
      let parametroID = parametros.get("produto-id")
 
      let id
@@ -14,11 +14,12 @@ async function buscarDetalhes(){}
      }
      document.body.innerHTML=`
      <h1>${produtos[id].nome}</h1>
-     <img> src="${produtos[id].img}" height="250" width="250>
+     <img src="${produtos[id].img}" height="250" width="250">
      <span>R$${produtos[id].valorComDesconto.toFixed(2).replace(".",",")}</span>
      <span>R$${produtos[id].valorSemDesconto.toFixed(2).replace(".",",")}</span>
 
 
      `
     }
-    buscarDetalhes
+    
+    buscarTreinando()
