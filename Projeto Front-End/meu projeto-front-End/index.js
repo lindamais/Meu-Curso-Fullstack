@@ -4,12 +4,12 @@ async function buscar(){
 
     let divLista = document.getElementById("lista-card")
     for(let produto of produtos){
-        divLista.innerHTML +-`
+        divLista.innerHTML+=`
              <div class="card" data-id="${produto.id}">
-             <h3>${produto.nome}</h3
-             <img src="${produto.img[0]}" width="200" height="200"/>
+             <h3>${produto.nome}</h3>
+             <img src="${produto.img[0]}" width="200" height="200">
              <p>${produto.sabor}</p>
-             <span>${produto.preço}</span>
+             <span>R$ ${produto.preco_unitario.toFixed(2).replace(".",",")}</span>
         `
     }
     let divsCards = document.getElementsByClassName("card")
@@ -20,6 +20,6 @@ async function buscar(){
 }
 function clicou(){
     let elementoId = this.getAttribute("data-id")
-    windou.location.href = "detalhes.html?produto-id=" + elementoId
+    window.location.href = "detalhes.html?produto-id=" + elementoId
 }
 buscar()

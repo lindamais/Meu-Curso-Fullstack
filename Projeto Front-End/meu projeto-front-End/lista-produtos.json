@@ -1,0 +1,43 @@
+[
+    {
+    "id":1,
+    "produto":"sorvete artesanal",
+    "img":["https://muii.com.br/__export/1602112701351/sites/mui/img/2020/10/07/sorvete-de-chocolate-vegano.jpeg_524693529.jpeg","https://blog.natuclin.com.br/wp-content/uploads/2020/11/WhatsApp-Image-2020-11-26-at-13.09.43.jpeg","https://www.receitasdemae.com.br/wp-content/uploads/2014/10/Sorvete-de-chocolate.jpg"],
+    "nome":"chocolate Belga",
+    "sabor":"chocolate", 
+    "preco_unitario": 4.99
+    },  
+{
+    "id":2,
+    "produto":"sorvete artesanal",
+    "img":["https://simoesfilhoonline.com.br/wp-content/uploads/2020/12/sorvete-de-morango-caseiro-4.jpg","https://insanelygoodrecipes.com/wp-content/uploads/2023/08/Bowl-of-Homemade-Strawberry-Ice-Cream-with-Cones.jpg","https://img.freepik.com/premium-photo/bowl-strawberry-ice-cream-with-fresh-berries-isolated-pink-background-top-view_756535-2162.jpg?w=740"],
+    "nome":"morango orgânico",
+    "sabor":"morango", 
+    "preco_unitario": 7.00  
+    },
+{
+    "id":3,
+    "produto":"sorvete artesanal",
+    "img":["https://www.receiteria.com.br/wp-content/uploads/receitas-de-sorvete-de-coco-00.jpg","https://admin.amorino.com/wp-content/uploads/2022/04/mascarpone-figue-fleur.jpg","https://www.seriouseats.com/thmb/50zJ8npv0nctEknG-oJTjJc74n4=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/__opt__aboutcom__coeus__resources__content_migration__serious_eats__seriouseats.com__2019__05__20190430-hazelnut-ice-cream-vicky-wasik-29-2d6b230ef2214d03a4937b9fb55de605.jpg"],
+    "nome": "Coco dourado",
+    "sabor":"coco", 
+    "preco_unitario": 8.99
+    },
+{
+    "id":4,
+    "produto":"sorvete artesanal",
+    "img":["https://1.bp.blogspot.com/-fqSsMo0X0mo/VLfz7OGd0OI/AAAAAAAACwY/I1gD75Ppc5k/s1600/Sorvete%2Bde%2Babacaxi%2B2.JPG","https://coleycooks.com/wp-content/uploads/2016/09/IMG_7587.webp","https://image.made-in-china.com/2f0j00MojlGrsAQqbm/Home-Decoration-Glassware-Ice-Cream-Glass-Cup-Salad-Bowl.jpg"],
+    "nome":"Abacaxí Caramelizado",
+    "sabor":"abacaxí", 
+    "preco_unitario": 4.99
+    },
+{
+    "id":5,
+    "produto":"sorvete artesanal",
+    "img":["https://static1.minhavida.com.br/recipes/a8/06/2b/58/sorvete-de-baunilha-em-bolas-orig-1.jpg","https://i.ytimg.com/vi/qk9Gio_zKCg/maxresdefault.jpg","https://simoesfilhoonline.com.br/wp-content/uploads/2021/06/sorvetes-de-baunilha-do-Mac.jpg"],
+    "nome":"Baunilha bourbon",
+    "sabor":"baunilha", 
+    "preco_unitario": 10.99
+    }
+]
+
