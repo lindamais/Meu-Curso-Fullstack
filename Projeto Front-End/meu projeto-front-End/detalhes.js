@@ -13,7 +13,7 @@ async function buscarDetalhes(){
  
     document.getElementById("detalhes").innerHTML += `
         <h3>${produtos[indiceProd].nome}</h3>
-        <img src="${produtos[indiceProd].img[0]}" id="frame" width="250" height="250" style="border: 1px solid #000; border-radius: 10px">
+        <img src="${produtos[indiceProd].img[0]}" id="frame" width="290" height="290" style="border: 2px solid #f0064c; border-radius: 14px">
         <div class="miniaturas" id="miniaturas">
         </div>
         <p>${produtos[indiceProd].produto}</p>
@@ -24,7 +24,7 @@ async function buscarDetalhes(){
     let divMiniaturas = document.getElementById("miniaturas")
     for(let y of produtos[indiceProd].img){
         divMiniaturas.innerHTML += `
-            <img src="${y}" class="mini" width="80" height="80" style="border: 1px solid #000; border-radius: 10px">
+            <img src="${y}" class="mini" width="91" height="91" style="border: 2px solid #f0064c; border-radius: 14px">
         `
     }
 
