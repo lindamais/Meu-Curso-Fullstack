@@ -1,9 +1,13 @@
 .lista-card{
+    
     display: flex;
     flex-wrap: wrap;
     column-gap: 12px;
     row-gap:12px;
+    justify-content: center;
+
 }
+   
 .card{
     border: 2px solid #f0064c;
     display: flex;
@@ -13,3 +17,11 @@
     border-radius: 12px;
     align-items: center;
 }
+ .h1{font-size: 60px;
+    text-align: center;
+    color: #f0064c;
+    font-family:"Bodoni MT Black" ;
+
+ }
+
+
