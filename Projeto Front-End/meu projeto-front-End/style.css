@@ -14,7 +14,7 @@
     flex-direction: column;
     width: fit-content;
     padding: 12px;
-    border-radius: 12px;
+    border-radius: 58%;
     align-items: center;
 }
  .h1{font-size: 60px;
@@ -23,5 +23,23 @@
     font-family:"Bodoni MT Black" ;
 
  }
+ .imagem{
+    width:590; 
+    height:590;
+    border: 2px solid #f0064c; 
+    border-radius: 70%;
+
+ }
+ .barra{
+    background-color: #bd4a6d;
+
+ }
+ .barra2{
+    background-color: #bd4a6d;
+    height: 50px;
+
+ }
+body{ background-color: rgba(241, 210, 210, 0.952) ;
+}
 
 

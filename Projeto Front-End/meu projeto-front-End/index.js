@@ -5,9 +5,10 @@ async function buscar(){
     let divLista = document.getElementById("lista-card")
     for(let produto of produtos){
         divLista.innerHTML+=`
+        
              <div class="card" data-id="${produto.id}">
              <h3>${produto.nome}</h3>
-             <img src="${produto.img[0]}" width="200" height="200">
+             <img class="imagem" src="${produto.img[0]}" width="200" height="200">
              <p>${produto.sabor}</p>
              <span>R$ ${produto.preco_unitario.toFixed(2).replace(".",",")}</span>
         `
