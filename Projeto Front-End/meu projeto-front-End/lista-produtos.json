@@ -38,6 +38,48 @@
     "nome":"Baunilha Bourbon",
     "sabor":"baunilha", 
     "preco_unitario": 6.99
+    },
+{
+    "id":6,
+    "produto":"Sorvete Artesanal",
+    "img":["https://d1uz88p17r663j.cloudfront.net/original/000d0f80648a7e34a033f8a2885bc744_sorevete-de-abobora-com-coco-receitas-nestle.jpg","https://ralston.com.br/wp-content/uploads/2021/03/sorvete-de-doce-de-abobora-ralston-com-coco.jpg","https://alimentesebem.sesisp.org.br/app/uploads/2021/12/IMG_5479-729x410.jpg"],
+    "nome":"Abóbora com Coco",
+    "sabor":"Abóbora com coco", 
+    "preco_unitario": 7.99
+   },
+{
+    "id":7,
+    "produto":"Sorvete Artesanal",
+    "img":["http://receitasmaisfaceis.com.br/wp-content/b60be9ee921aefe8514bf9a07b8d1f77/sorvete-de-ameixa-feito-com-leite-moca-e-claras-65.jpg","https://1.bp.blogspot.com/-eIkxl9fWB58/ThUNSB6QjRI/AAAAAAAAAA0/5rZYAXRJXMY/s400/1ameixa.jpg","https://mycasualpantry.com/wp-content/uploads/2021/02/Double-Espresso-Ice-Cream-featured-300x300.jpg"],
+    "nome":"Ameixa",
+    "sabor":"ameixa", 
+    "preco_unitario": 8.99
+    },
+{
+    "id":8,
+    "produto":"Sorvete Artesanal",
+    "img":["https://images.aws.nestle.recipes/original/6f2d975473817bec1c6a9d4f5330141f_sorvete-de-amendoim-receitas-nestle.jpg","https://noticidadebrasil.com.br/wp-content/uploads/2020/09/Sorvete.gif","https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-sorvete-3.gif"],
+    "nome":"Amendoim",
+    "sabor":"amendoim", 
+    "preco_unitario": 9.99
+    },
+{
+    "id":9,
+    "produto":"Sorvete Artesanal",
+    "img":["https://lh4.ggpht.com/-JsLqYiJgSOs/UGM697RdTSI/AAAAAAAAFOM/L-fb8Jp1Rbc/sorvetebanana_thumb.gif?imgmax=800","https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3hwM3VxMTFtM2s2cm5temttc3QweTMwb3l0c3VubXJhem1lNHE2MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o6Zt7qChPzoAUAmpW/giphy.gif","https://gifs.eco.br/wp-content/uploads/2022/09/gifs-de-sorvete-14.gif"],
+    "nome":"Banana",
+    "sabor":"banana", 
+    "preco_unitario": 6.99
+    },
+{
+    "id":10,
+    "produto":"Sorvete Artesanal",
+    "img":["https://media.tenor.com/dn3Wf9uffXUAAAAC/ice-cream-ice-cream-shop.gif","https://www.recadopop.com/imagens/sorvete/00002.gif","https://2.bp.blogspot.com/-8UuM7G0zuoQ/WJRd7zQlMXI/AAAAAAAAY3A/1TDj4VLvobI8lQ5cH2SANRPbN_33GjDfwCLcB/s1600/Gifs%2Banimados%2BSorvete%2B12.gif"],
+    "nome":"Castanha de cajú",
+    "sabor":"castanha", 
+    "preco_unitario": 9.99
     }
+
 ]
+
 
