@@ -9,7 +9,7 @@
 }
    
 .card{
-    border: 2px solid #f0064c;
+    border: 4px solid #f0064c;
     display: flex;
     flex-direction: column;
     width: fit-content;
@@ -23,12 +23,14 @@
     text-align: center;
     color: #f0064c;
     font-family:"Bodoni MT Black" ;
+    background-color: rgb(94, 167, 216);
+    padding: 54px;
 
  }
  .imagem{
     width:590; 
     height:590;
-    border: 2px solid #f0064c; 
+    border: 4px solid #f0064c; 
     border-radius: 50%;
 
  }
