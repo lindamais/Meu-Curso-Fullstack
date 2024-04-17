@@ -38,4 +38,26 @@ function deslize(){
     document.getElementById("frame").src = this.src
 }
 
+var shoppingCart = [];
+
+function addToCart(title, price) {
+    var product = {};
+    product.title = title;
+    product.price = price;
+    
+    shoppingCart.push(product);
+}
+
+
+addToCart("Camiseta", 29.99);
+addToCart("Calça jeans", 49.99);
+
+
+
+console.log(shoppingCart);
+
 buscarDetalhes()
+
+function compraconcluida(){
+    alert ("compra concluída")
+}

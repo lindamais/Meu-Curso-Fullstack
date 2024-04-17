@@ -24,3 +24,15 @@ function clicou(){
     window.location.href = "detalhes.html?produto-id=" + elementoId
 }
 buscar()
+function clik(){
+    let clik = document.getElementById("informaçoes")
+    window.scrollTo({top:clik.offsetTop, behavior:"auto"})
+}
+function toque(){
+    let clik = document.getElementById("produtos")
+    window.scrollTo({top:clik.offsetTop, behavior:"auto"})
+}
+function escolha(){
+    let clik = document.getElementById("localização")
+    window.scrollTo({top:clik.offsetTop, behavior:"auto"})
+}
