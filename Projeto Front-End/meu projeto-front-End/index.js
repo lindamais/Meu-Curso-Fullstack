@@ -8,7 +8,7 @@ async function buscar(){
         
              <div class="card" data-id="${produto.id}">
              <h3>${produto.nome}</h3>
-             <img class="imagem" src="${produto.img[0]}" width="200" height="200">
+             <img class="imagem" src="${produto.img[0]}">
              <p>${produto.sabor}</p>
              <span>R$ ${produto.preco_unitario.toFixed(2).replace(".",",")}</span>
         `
@@ -34,5 +34,10 @@ function toque(){
 }
 function escolha(){
     let clik = document.getElementById("localização")
+    window.scrollTo({top:clik.offsetTop, behavior:"auto"})
+}
+
+function compra(){
+    let clik = document.getElementById("compra")
     window.scrollTo({top:clik.offsetTop, behavior:"auto"})
 }

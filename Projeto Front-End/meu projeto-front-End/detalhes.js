@@ -60,4 +60,8 @@ buscarDetalhes()
 
 function compraconcluida(){
     alert ("compra concluída")
+function compras(){
+    alert ("compras")
+
+    }
 }
