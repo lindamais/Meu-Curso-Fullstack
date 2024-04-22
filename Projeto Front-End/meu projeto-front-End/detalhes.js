@@ -21,6 +21,15 @@ async function buscarDetalhes(){
         <span>R$ ${produtos[indiceProd].preco_unitario.toFixed(2).replace(".",",")}</span>
         `
 
+
+
+
+        document.getElementById("informaçoes").innerHTML += `
+        <h1>aqui</h1>`
+
+
+
+
     let divMiniaturas = document.getElementById("miniaturas")
     for(let y of produtos[indiceProd].img){
         divMiniaturas.innerHTML += `
