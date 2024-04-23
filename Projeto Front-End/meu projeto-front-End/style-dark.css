@@ -1,0 +1,111 @@
+/* Lista de cartões */
+.lista-card {
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 12px;
+    row-gap: 12px;
+    justify-content: center;
+}
+
+/* Cartão individual */
+.card {
+    border: 4px solid #f3064d;
+    display: flex;
+    flex-direction: column;
+    width: fit-content;
+    padding: 10px;
+    width: 320px;
+    height: 350px;
+    border-radius: 50%;
+    align-items: center;
+    background-color: #333; /* Background dark mode */
+    color: #fff; /* Texto em branco */
+}
+
+/* Título */
+.h1 {
+    font-size: 60px;
+    text-align: center;
+    color: #f0064c;
+    font-family: "Bodoni MT Black";
+    background-color: rgb(94, 167, 216);
+    padding: 54px;
+}
+
+/* Imagem */
+.imagem {
+    width: 245px;
+    height: 450px;
+    border: 4px solid #0663ee;
+    border-radius: 50%;
+}
+
+/* Barra superior */
+.barra {
+    background-color: #bd4a6d;
+}
+
+/* Barra inferior */
+.barra2 {
+    background-color: #bd4a6d;
+    height: 50px;
+}
+
+/* Corpo do site */
+body {
+    background-color: #222; /* Background dark mode */
+    color: #fff; /* Texto em branco */
+}
+
+/* Imagens dos sorvetes */
+.sorvete-img {
+    width: 250px;
+    height: 250px;
+}
+
+/* Links de contato */
+.contato {
+    width: 180px;
+    height: 80px;
+}
+
+/* Tamanho da imagem principal */
+.tam {
+    display: flex;
+    margin: auto;
+    width: 800px;
+    height: 250px;
+}
+
+/* Detalhes adicionais */
+.detalhes {
+    display: flex;
+}
+
+/* Primeira coluna de detalhes */
+.detalhes1 {
+    flex-direction: column;
+    margin-right: 10%;
+}
+
+/* Segunda coluna de detalhes */
+.detalhes2 {
+    flex-direction: row;
+    text-align: center;
+    font-size: 11px;
+    margin-top: 12%;
+}
+
+/* Botões */
+.bt {
+    height: fit-content;
+    width: fit-content;
+}
+
+/* Miniaturas */
+.mini {
+    width: 88px;
+    height: 88px;
+    border: 4px solid #f0064c;
+    border-radius: 50%;
+}

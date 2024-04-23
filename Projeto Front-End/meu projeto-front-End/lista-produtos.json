@@ -24,7 +24,7 @@
     "nome": "Coco dourado",
     "sabor":"coco", 
     "preco_unitario": 8.99,
-    "descrição":""
+    "descrição":"O sorvete de coco dourado é uma deliciosa sobremesa feita com uma base cremosa de coco, que é enriquecida com um sabor dourado, geralmente obtido através do uso de açúcar caramelizado ou da adição de extrato de baunilha. Sua textura é suave e indulgente, com um sabor rico e tropical que remete ao coco fresco. "
     },
 {
     "id":4,
@@ -33,7 +33,7 @@
     "nome":"Abacaxí Caramelizado",
     "sabor":"abacaxí", 
     "preco_unitario": 4.99,
-    "descrição":""
+    "descrição":"O sorvete de abacaxi caramelizado é uma deliciosa variação que combina o sabor tropical e refrescante do abacaxi com a riqueza e a doçura da caramelização. Esta sobremesa geralmente começa com pedaços suculentos de abacaxi fresco, que são delicadamente caramelizados em açúcar até adquirirem uma cor dourada e um sabor intensificado. "
     },
 {
     "id":5,
@@ -42,16 +42,16 @@
     "nome":"Baunilha Bourbon",
     "sabor":"baunilha", 
     "preco_unitario": 6.99,
-    "descrição":""
+    "descrição":"O sorvete de baunilha bourbon é uma versão sofisticada e saborosa do clássico sorvete de baunilha, enriquecida com o distintivo sabor e aroma do bourbon. Esta sobremesa deliciosa combina a suavidade e a doçura da baunilha com as notas quentes, amadeiradas e levemente caramelizadas do bourbon, resultando em uma experiência de sabor única e indulgente."
     },
 {
     "id":6,
     "produto":"Sorvete Artesanal",
     "img":["https://d1uz88p17r663j.cloudfront.net/original/000d0f80648a7e34a033f8a2885bc744_sorevete-de-abobora-com-coco-receitas-nestle.jpg","https://ralston.com.br/wp-content/uploads/2021/03/sorvete-de-doce-de-abobora-ralston-com-coco.jpg","https://alimentesebem.sesisp.org.br/app/uploads/2021/12/IMG_5479-729x410.jpg"],
     "nome":"Abóbora com Coco",
-    "sabor":"Abóbora com coco", 
+    "sabor":"Abóbora", 
     "preco_unitario": 7.99,
-    "descrição":""
+    "descrição":"A combinação de abóbora com coco é uma mistura deliciosa de sabores que combina a doçura suave da abóbora com a cremosidade tropical do coco. Essa combinação é frequentemente encontrada em sobremesas, especialmente em receitas tradicionais de alguns países."
    },
 {
     "id":7,
@@ -60,7 +60,7 @@
     "nome":"Ameixa",
     "sabor":"ameixa", 
     "preco_unitario": 8.99,
-    "descrição":""
+    "descrição":"O sorvete de ameixa é uma deliciosa sobremesa que combina a suculência e o sabor doce da ameixa com a cremosidade refrescante do sorvete. Esta iguaria oferece uma experiência única de sabor, capturando a essência frutada e vibrante da ameixa em cada colherada."
     },
 {
     "id":8,
@@ -69,7 +69,7 @@
     "nome":"Amendoim",
     "sabor":"amendoim", 
     "preco_unitario": 9.99,
-    "descrição":""
+    "descrição":"Na sua preparação, uma base de sorvete cremosa é cuidadosamente misturada com pasta de amendoim ou pedaços de amendoim triturados, resultando em uma textura suave com pedaços crocantes de amendoim. O sabor do amendoim é proeminente, proporcionando uma combinação deliciosa de doçura e nuttiness que agrada ao paladar."
     },
 {
     "id":9,
@@ -78,7 +78,7 @@
     "nome":"Banana",
     "sabor":"banana", 
     "preco_unitario": 6.99,
-    "descrição":""
+    "descrição":"O sorvete artesanal de banana é uma criação deliciosa que captura a essência doce e cremosa da banana em uma sobremesa refrescante e indulgente. Feito com ingredientes frescos e cuidadosamente selecionados, este sorvete é uma experiência gastronômica única, perfeita para os amantes de bananas e de sorvete."
     },
 {
     "id":10,
@@ -87,7 +87,7 @@
     "nome":"Castanha de cajú",
     "sabor":"castanha", 
     "preco_unitario": 9.99,
-    "descrição":""
+    "descrição":"O sorvete artesanal de castanha de caju é uma sobremesa luxuosa e indulgente que combina a suavidade cremosa do sorvete com o sabor rico e a textura crocante da castanha de caju. Esta iguaria oferece uma experiência de sabor única e sofisticada, perfeita para os amantes de sobremesas gourmet."
     }
 
 ]
